@@ -1,3 +1,5 @@
+'use client';
+
 import { Card } from '@tremor/react';
 
 export default function Example() {
